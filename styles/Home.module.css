@@ -1,5 +1,4 @@
 .body {
-  color: #000000;
   background-color: #000000;
 }
 
@@ -13,6 +12,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
+  color: #FFFFFF;
 }
 
 .header_text_2 {
@@ -34,14 +34,15 @@
   font-weight: 400;
   font-size: 18px;
   opacity: 0.5;
+  color: #FFFFFF;
 }
 
 .buttonContainer {
   margin: 0;
   display: flex;
   align-items: center;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
   margin-bottom: 50px;
   justify-content: space-between;
   margin-top: 12px;
